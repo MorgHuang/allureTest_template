@@ -1,0 +1,1 @@
+# allureTest_template
